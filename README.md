@@ -113,4 +113,4 @@
 ### 벡엔드: https://github.com/SummerToday/Soon-Sulleng-Guide-App-Backend.git
 
 ### 프론트엔드: https://github.com/SummerToday/Soon-Sulleng-Guide-App.git
-그렇다.
+
