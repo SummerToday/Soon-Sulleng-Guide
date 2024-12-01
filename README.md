@@ -61,10 +61,10 @@
 <br>
 
 ## AWS 아키텍처 설계
-> ![img_3.png](img_3.png)
+> ![img_3.png](image/img_3.png)
 
 ## ERD 설계
-> ![img.png](img.png)
+> ![img.png](image/img.png)
 
 <br>
 
