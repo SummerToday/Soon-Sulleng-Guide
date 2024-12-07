@@ -52,16 +52,29 @@
 <br>
 
 ## 프로젝트 계획서
+> ![image](https://github.com/user-attachments/assets/58486d95-28d5-4d17-b350-b7b40890c89b)
+
+<br>
 
 ## 요구사항 분석
+> ![image](https://github.com/user-attachments/assets/120c1a46-2344-4867-a9ad-a6a070a73f45)
+
+<br>
 
 ## WBS
+> ![image](https://github.com/user-attachments/assets/60a2605f-34f8-407c-9000-5be3ac9cb619)
+
+<br>
 
 ## IA
+> ![image](https://github.com/user-attachments/assets/ddaa9c07-a7c0-4f51-9f15-1062a8d20840)
+
 <br>
 
 ## AWS 아키텍처 설계
 > ![img_3.png](image/img_3.png)
+
+<br>
 
 ## ERD 설계
 > ![img.png](image/img.png)
