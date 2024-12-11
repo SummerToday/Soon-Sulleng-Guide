@@ -1,9 +1,14 @@
 # Soon-Sulleng-Guide
+<br>
+
 기존 미슐랭 가이드 이름을 패러디한 프로젝트 명으로 '순천향대' + '미슐랭 가이드'의 합성어로 네이밍하였습니다.
 미슐랭 가이드가 맛있는 음식점들을 소개해주는 것처럼, 저희는 재학생 리뷰를 기반으로 하여 
 "순천향대"만의 미슐랭가이드를 만들어보았습니다.
 
+![1733905994619-ec95e956-01f8-4552-b76a-c5fa024053c6_1](https://github.com/user-attachments/assets/0597ff3e-79e0-4a2b-95f3-03c363126fc5)
 
+
+<br>
 
 ## 💻 프로젝트 진행 배경 및 소개
 
@@ -16,7 +21,8 @@
 특히 기존 리뷰 서비스들 처럼 맛집 단위로 리뷰를 제공하는 것이 아니라, 맛집들의 특정 메뉴를 타겟으로 하여 메뉴 위주의 리뷰 서비스를 제공하는 것을 목표로 합니다. 
 이를 통해 학생들의 시간과 비용을 절약하고, 학교 생활의 만족도를 높이는 데 기여할 것으로 기대합니다.
 
-<br>
+<br>![1733905994619-ec95e956-01f8-4552-b76a-c5fa024053c6_2](https://github.com/user-attachments/assets/8030afcb-edec-4e95-ab5e-ef2e6729bb0e)
+
 
 ## 👋 팀원 소개 및 역할 소개
 
@@ -40,6 +46,10 @@
 <br>
 
 ## 📌 주요 기술 스택 및 개발 환경
+
+![1733905994619-ec95e956-01f8-4552-b76a-c5fa024053c6_4](https://github.com/user-attachments/assets/b6c8f58a-5757-49aa-abb2-8284f24f963c)
+![1733905994619-ec95e956-01f8-4552-b76a-c5fa024053c6_3](https://github.com/user-attachments/assets/edad8247-0844-4f9b-ba49-02c78c10ef74)
+
 ### Environment
 <img src="https://img.shields.io/badge/intellijidea-0062AD?style=for-the-badge&logo=intellijidea&logoColor=white"><img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"><img src="https://img.shields.io/badge/workbench-768CFF?style=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/drawio-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white"><img src="https://img.shields.io/badge/ERDCLOUD-004088?style=for-the-badge&logo=ERDCLOUD&logoColor=white">
@@ -132,9 +142,29 @@
 
 ## 프로젝트 주요 구현 결과
 
+[초기화면]
 
+[로그인화면]
+
+[회원가입]
+- SNS(구글)을 통한 로그인 기능을 사용하여 구현했습니다. 
+- 이메일 주소의 형식이 유효하지 않거나 이미 가입된 이메일일 경우 또는 비밀번호가 6자 미만일 경우에는 각 입력창 하단에 경구 문구가 나타납니다.
+- 작성이 완료된 후, 메인 화면이 나타납니다.
+
+[글쓰기 화면]
+
+|회원가입 화면|
+|:---:|
+||
 
 <br>
+[메인화면]
+
+## 개선 목표
+![1733905994619-ec95e956-01f8-4552-b76a-c5fa024053c6_8](https://github.com/user-attachments/assets/0131cf78-1ba9-4d4b-8f8b-aa70e428b6b5)
+<br>
+
+
 
 ## 상세 프로젝트 리포지토리
 
@@ -145,36 +175,4 @@
 
 ### 프론트엔드: https://github.com/SummerToday/Soon-Sulleng-Guide-App.git
 <br>
-
-
-## 프로젝트 구조
-<br>
-
-## 개발 기간 및 작업 관리
-<br>
-
-## 신경 쓴 부분
-<br>
-
-## 페이지별 기능
-[초기화면]
-
-[로그인화면]
-
-[회원가입]
-- SNS(구글)을 통한 로그인 기능을 사용하여 구현했습니다. 
-- 이메일 주소의 형식이 유효하지 않거나 이미 가입된 이메일일 경우 또는 비밀번호가 6자 미만일 경우에는 각 입력창 하단에 경구 문구가 나타납니다.
-- 작성이 완료된 후, 메인 화면이 나타납니다.
-
-|회원가입 화면|
-|:---:|
-|![img.png](image/img.png)|
-
-<br>
-[메인화면]
-
-## 개선 목표
-<br>
-
-## 프로젝트 후기
 
