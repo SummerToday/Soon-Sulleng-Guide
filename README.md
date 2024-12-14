@@ -2,7 +2,6 @@
 기존 미슐랭 가이드 이름을 패러디한 프로젝트 명으로 '순천향대' + '미슐랭 가이드'의 합성어로 네이밍하였습니다.
 미슐랭 가이드가 맛있는 음식점들을 소개해주는 것처럼 저희는 재학생 리뷰를 기반으로 하여 학교 주변의 맛있는 메뉴들을 소개해줄 수 있는 서비스를 만들고 싶었습니다.
 
-![1733905994619-ec95e956-01f8-4552-b76a-c5fa024053c6_1](https://github.com/user-attachments/assets/0597ff3e-79e0-4a2b-95f3-03c363126fc5)
 
 <br>
 
@@ -16,7 +15,6 @@
 
 특히 기존 리뷰 서비스들 처럼 맛집 단위로 리뷰를 제공하는 것이 아니라, 맛집들의 특정 메뉴를 타겟으로 하여 메뉴 위주의 리뷰 서비스를 제공하는 것을 목표로 합니다. 이를 통해 학생들의 시간과 비용을 절약하고, 학교 생활의 만족도를 높이는 데 기여할 것으로 예상합니다.
 
-<br>![1733905994619-ec95e956-01f8-4552-b76a-c5fa024053c6_2](https://github.com/user-attachments/assets/8030afcb-edec-4e95-ab5e-ef2e6729bb0e)
 
 <br>
 
@@ -43,8 +41,6 @@
 
 ## 📌 주요 기술 스택
 
-![1733905994619-ec95e956-01f8-4552-b76a-c5fa024053c6_4](https://github.com/user-attachments/assets/b6c8f58a-5757-49aa-abb2-8284f24f963c)
-![1733905994619-ec95e956-01f8-4552-b76a-c5fa024053c6_3](https://github.com/user-attachments/assets/edad8247-0844-4f9b-ba49-02c78c10ef74)
 ### Environment
 <img src="https://img.shields.io/badge/intellijidea-0062AD?style=for-the-badge&logo=intellijidea&logoColor=white"><img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"><img src="https://img.shields.io/badge/workbench-768CFF?style=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/drawio-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white"><img src="https://img.shields.io/badge/ERDCLOUD-004088?style=for-the-badge&logo=ERDCLOUD&logoColor=white">
