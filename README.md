@@ -2,6 +2,9 @@
 기존 미슐랭 가이드 이름을 패러디한 프로젝트 명으로 '순천향대' + '미슐랭 가이드'의 합성어로 네이밍하였습니다.
 미슐랭 가이드가 맛있는 음식점들을 소개해주는 것처럼 저희는 재학생 리뷰를 기반으로 하여 학교 주변의 맛있는 메뉴들을 소개해줄 수 있는 서비스를 만들고 싶었습니다.
 
+![1733905994619-ec95e956-01f8-4552-b76a-c5fa024053c6_1](https://github.com/user-attachments/assets/0597ff3e-79e0-4a2b-95f3-03c363126fc5)
+
+<br>
 
 ## 💻 프로젝트 진행 배경 및 소개
 
@@ -12,6 +15,8 @@
 그래서 이러한 정확하지 않은 정보 속에서, 학교에 최소 4년 동안 다니면서 쌓인 재학생들만의 맛있는 메뉴들을 알려줄 수 있는 앱을 만들어보기로 하였습니다. 이 앱을 통해 학교 주변 맛집 정보를 재학생들끼리 공유하고 축적하여, 신입생은 물론 재학생도 쉽게 맛집을 찾을 수 있는 환경을 만들고자 합니다.
 
 특히 기존 리뷰 서비스들 처럼 맛집 단위로 리뷰를 제공하는 것이 아니라, 맛집들의 특정 메뉴를 타겟으로 하여 메뉴 위주의 리뷰 서비스를 제공하는 것을 목표로 합니다. 이를 통해 학생들의 시간과 비용을 절약하고, 학교 생활의 만족도를 높이는 데 기여할 것으로 예상합니다.
+
+<br>![1733905994619-ec95e956-01f8-4552-b76a-c5fa024053c6_2](https://github.com/user-attachments/assets/8030afcb-edec-4e95-ab5e-ef2e6729bb0e)
 
 <br>
 
@@ -37,6 +42,9 @@
 <br>
 
 ## 📌 주요 기술 스택
+
+![1733905994619-ec95e956-01f8-4552-b76a-c5fa024053c6_4](https://github.com/user-attachments/assets/b6c8f58a-5757-49aa-abb2-8284f24f963c)
+![1733905994619-ec95e956-01f8-4552-b76a-c5fa024053c6_3](https://github.com/user-attachments/assets/edad8247-0844-4f9b-ba49-02c78c10ef74)
 ### Environment
 <img src="https://img.shields.io/badge/intellijidea-0062AD?style=for-the-badge&logo=intellijidea&logoColor=white"><img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"><img src="https://img.shields.io/badge/workbench-768CFF?style=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/drawio-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white"><img src="https://img.shields.io/badge/ERDCLOUD-004088?style=for-the-badge&logo=ERDCLOUD&logoColor=white">
@@ -110,15 +118,51 @@
 
 ## 🔎 프로젝트 주요 구현 내용
 
+[초기화면]
+- SNS(구글) 계정을 통해 간편하게 시작할 수 있는 화면을 제공합니다.
+  
+<br>
 
-
-
+[로그인화면]
+- "구글 계정으로 시작하기" 버튼을 누르면 사용자가 원하는 구글 계정을 선택할 수 있는 선택 창이 표시됩니다.
 
 <br>
 
+[회원가입]
+- SNS(구글) 계정을 활용하여 간편한 로그인 및 회원가입 기능을 구현하였습니다.
+- 이메일 형식이 유효하지 않거나 이미 가입된 이메일일 경우 각 입력창 하단에 경고 메시지가 표시됩니다.
+- 모든 입력이 완료되면, 메인 화면으로 이동합니다.
+<br>
+
+[메인화면]
+- 첫 접속 시, 사용자가 닉네임을 설정할 수 있는 창이 표시됩니다.
+- 사용자가 작성한 음식점 및 카페에 대한 리뷰를 확인할 수 있습니다.
+- 상단의 검색 아이콘을 눌러 특정 음식이나 가게에 대한 리뷰를 검색할 수 있습니다.
+
+<br>
+
+[상세리뷰페이지]
+- 메인화면에서 리뷰를 클릭할 시 확인할 수 있는 창입니다.
+- 상단의 리뷰사진을 클릭하여 사진을 크게 확인할 수 있습니다.
+- 리뷰사진이 여러개일 경우, 옆으로 넘겨 확인할 수 있습니다.
+
+<br>
+
+[리뷰페이지]
+- 사용자가 리뷰를 작성할 수 있는 화면으로, 식당명, 리뷰 내용, 별점 등을 입력할 수 있습니다.
+- 리뷰 작성 시 갤러리에서 여러 장의 사진을 첨부할 수 있도록 설계하였습니다. 수 있습니다.
+
 ## 프로젝트 주요 구현 결과
 
+- SNS(구글 계정)과 연동하여 간편한 회원가입 및 로그인 기능 구현
+  
+- 구글 계정에 저장된 사용자의 이름과 이메일 정보를 활용한 사용자 인증 설계
 
+- Google OAuth2.0를 활용하여 보안 강화 및 토큰 기반 인증 체계 구축
+
+- Flutter를 활용한 반응형 앱 설계로 다양한 기기에서 최적화된 사용자 경험 제공
+
+- AWS 클라우드 서버를 사용하여 높은 가용성과 무중단 서비스를 제공하며, 안정성과 확장성을 보장하는 서버 인프라 설계
 
 <br>
 
