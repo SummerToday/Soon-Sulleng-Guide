@@ -117,26 +117,25 @@
 [초기 화면]
 - SNS(구글) 계정을 통해 간편하게 시작할 수 있는 화면을 제공합니다.
 
-<div style="text-align: center;">
+<p align="center">
   <img src="image/image.png" alt="center" width="300" height="600">
-</div>
+</p>
 
   
 <br></br>
 
 [로그인 화면]
 - "구글 계정으로 시작하기" 버튼을 누르면 사용자가 원하는 구글 계정을 선택할 수 있는 선택 창이 표시됩니다.
-<div style="text-align: center;">
+<p align="center">
   <img src="image/image-1.png" alt="center" width="300" height="600">
-</div>
+</p>
 
-<br></br>
+<br>
 
 [닉네임 입력 화면]
 - 최초 로그인하는 계정 같은 경우, 닉네임을 설정하는 화면이 나타나게 됩니다.
 
-
-<br></br>
+<br>
 
 [메인 화면]
 - 첫 접속 시, 사용자가 닉네임을 설정할 수 있는 창이 표시됩니다.
@@ -144,59 +143,62 @@
 - 상단의 검색 아이콘을 눌러 특정 음식이나 가게에 대한 리뷰를 검색할 수 있습니다.
 - 각 리뷰마다 별점을 확인할 수 있습니다.
 - 리뷰들을 검색할 수 있습니다.
-<div style="text-align: center;">
-  <img src="image/KakaoTalk_20241214_150617100_06.jpg" alt="center" width="300" height="600"> <img src="image/KakaoTalk_20241214_150617100_15.jpg" alt="center" width="300" height="600"> <img src="image/KakaoTalk_20241214_150617100_16.jpg" alt="center" width="300" height="600">
-</div>
+<p align="center">
+  <img src="image/KakaoTalk_20241214_150617100_06.jpg" alt="center" width="300" height="600">
+  <img src="image/KakaoTalk_20241214_150617100_15.jpg" alt="center" width="300" height="600">
+  <img src="image/KakaoTalk_20241214_150617100_16.jpg" alt="center" width="300" height="600">
+</p>
 
-<br></br>
+<br>
 
 [상세 리뷰 페이지]
 - 메인화면에서 리뷰를 클릭할 시 확인할 수 있는 창입니다.
 - 상단의 리뷰사진을 클릭하여 사진을 크게 확인할 수 있습니다.
-- 리뷰사진이 여러개일 경우, 옆으로 넘겨 확인할 수 있습니다.
-<div style="text-align: center;">
-  <img src="image/KakaoTalk_20241214_150617100_03.jpg" alt="center" width="300" height="600"> <img src="image/KakaoTalk_20241214_150617100_04.jpg" alt="center" width="300" height="600">
-</div>
+- 리뷰사진이 여러 개일 경우, 옆으로 넘겨 확인할 수 있습니다.
+<p align="center">
+  <img src="image/KakaoTalk_20241214_150617100_03.jpg" alt="center" width="300" height="600">
+  <img src="image/KakaoTalk_20241214_150617100_04.jpg" alt="center" width="300" height="600">
+</p>
 
-
-<br></br>
+<br>
 
 [전체 리뷰 목록]
 - 작성된 전체 리뷰 목록을 볼 수 있습니다.
-<div style="text-align: center;">
+<p align="center">
   <img src="image/KakaoTalk_20241214_150617100_05.jpg" alt="center" width="300" height="600">
-</div>
+</p>
 
-
-<br></br>
+<br>
 
 [리뷰 작성 페이지]
 - 사용자가 리뷰를 작성할 수 있는 화면으로, 식당명, 리뷰 내용, 별점 등을 입력할 수 있습니다.
 - 리뷰 작성 시 갤러리에서 여러 장의 사진을 첨부할 수 있도록 설계하였습니다.
-<div style="text-align: center;">
-  <img src="image/KakaoTalk_20241214_150617100_08.jpg" alt="center" width="300" height="600"> <img src="image/KakaoTalk_20241214_150617100_09.jpg" alt="center" width="300" height="600">
-</div>
+<p align="center">
+  <img src="image/KakaoTalk_20241214_150617100_08.jpg" alt="center" width="300" height="600">
+  <img src="image/KakaoTalk_20241214_150617100_09.jpg" alt="center" width="300" height="600">
+</p>
 
-<br></br>
+<br>
 
 [찜 목록 화면]
 - 찜한 리뷰들의 목록을 확인할 수 있습니다.
 - 휴지통 버튼을 클릭하여 각 찜한 리뷰들을 찜 해제할 수 있습니다.
 - 찜한 리뷰 클릭 시 자세한 정보를 확인할 수 있습니다.
-<div style="text-align: center;">
-  <img src="image/KakaoTalk_20241214_150617100_07.jpg" alt="center" width="300" height="600"> <img src="image/KakaoTalk_20241214_150617100_10.jpg" alt="center" width="300" height="600"> <img src="image/KakaoTalk_20241214_150617100_11.jpg" alt="center" width="300" height="600">
-</div>
+<p align="center">
+  <img src="image/KakaoTalk_20241214_150617100_07.jpg" alt="center" width="300" height="600">
+  <img src="image/KakaoTalk_20241214_150617100_10.jpg" alt="center" width="300" height="600">
+  <img src="image/KakaoTalk_20241214_150617100_11.jpg" alt="center" width="300" height="600">
+</p>
 
-<br></br>
+<br>
 
 [계정 정보 화면]
 - 사용자에 대한 간단한 정보들을 확인할 수 있습니다.
 - 로그아웃 버튼을 통해 로그아웃을 할 수 있습니다.
-<div style="text-align: center;">
+<p align="center">
   <img src="image/KakaoTalk_20241214_150617100_12.jpg" alt="center" width="300" height="600">
-</div>
+</p>
 
-<br></br>
 
 ## 프로젝트 주요 구현 결과
 
