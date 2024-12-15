@@ -148,6 +148,11 @@
 
 [닉네임 입력 화면]
 - 최초 로그인하는 계정 같은 경우, 닉네임을 설정하는 화면이 나타나게 됩니다.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/619e2574-da20-43cf-8556-a65210c14338" alt="center" width="300" height="600">
+</p>
+
+
 
 <br></br>
 
