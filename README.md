@@ -193,7 +193,7 @@
 - 사용자가 리뷰를 작성할 수 있는 화면으로, 식당명, 리뷰 내용, 별점 등을 입력할 수 있습니다.
 - 리뷰 작성 시 갤러리에서 여러 장의 사진을 첨부할 수 있도록 설계하였습니다.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5db3fe19-16ed-45a6-8422-391a4774ff15" alt="center" width="280" height="600">
+  <img src="https://github.com/user-attachments/assets/5a5af7d3-4de3-462d-b2e4-7a08c6b1fd58" alt="center" width="300" height="600">
   <img src="https://github.com/user-attachments/assets/767e3ab7-5b11-4a93-9b58-f73ba9e7a90a" alt="center" width="280" height="600">
 </p>
 
