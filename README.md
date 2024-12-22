@@ -66,7 +66,8 @@
 <br></br>
 
 ## WBS
-> ![image](https://github.com/user-attachments/assets/60a2605f-34f8-407c-9000-5be3ac9cb619)
+![image](https://github.com/user-attachments/assets/cd0c4ca3-0a5d-40b1-9f4b-17fbe625d7c4)
+
 
 <br></br>
 
