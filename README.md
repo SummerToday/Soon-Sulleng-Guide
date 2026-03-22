@@ -81,6 +81,12 @@
 
 <br></br>
 
+추후 다음 구조로 개선 예정입니다.
+> <img width="1312" height="1449" alt="image" src="https://github.com/user-attachments/assets/2bfe1901-f489-40e9-9d12-6bb5817d117b" />
+
+
+<br></br>
+
 ## ERD 설계
 > ![img.png](image/img.png)
 
